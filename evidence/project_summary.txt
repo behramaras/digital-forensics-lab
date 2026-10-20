@@ -1,0 +1,9 @@
+Project summary
+
+This is a fictional project summary created for a digital
+forensics learning exercise.
+
+Purpose:
+Practise file hashing, integrity verification and documentation.
+
+No real client information is included.
